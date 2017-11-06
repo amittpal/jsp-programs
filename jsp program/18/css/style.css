@@ -1,0 +1,23 @@
+.hl{
+color: white;
+font-size: 12px;
+font-family: sans sarif, verdana, arial;
+font-weight:bold;
+text-decoration:none;
+}
+/*a{
+text-decoration:none;
+color: white;
+}*/
+.but1{
+background-color:#0066CC;
+color:#ffffff;
+width:200px;
+height:25px;
+}
+.txt1{
+border: 1px solid #0066CC;
+}
+.tbl{
+border: 1px solid #0066CC;
+}
